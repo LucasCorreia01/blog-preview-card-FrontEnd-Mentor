@@ -7,6 +7,8 @@ Esse é a resolução do desafio: [Blog preview card challenge on Frontend Mento
 
 Esse desafio consiste em construir um card de blog utilizando HTML e CSS. Por meio dele, podemos colocar em prática os conhecimentos aprendidos durante cursos de front-end.
 
+[Live preview](https://lucascorreia01.github.io/blog-preview-card-FrontEnd-Mentor/)
+
 ### Screenshot
 
 ![](/assets/screenshot.png)
